@@ -6,7 +6,9 @@ I am open to contribute to open source projects, with some guidence. I am lookin
 Some people may not think that this is fun at all, but i really enjoyed it.  I built a wind tunnel, and designed my own experiment which could be used on the wind tunnel to collect data. I also Hacked the game cyber Kings, which was designed by BAE systems. 
 
 <!--
-**BrianJohnson-eng/BrianJohnson-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 💻 😏 ☀️ 🔰
+**BrianJohnson-eng/BrianJohnson-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+💻 😏 ☀️ 🔰
 
 Here are some ideas to get you started:
 
