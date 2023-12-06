@@ -4,9 +4,8 @@ C#,.Net, version control, Git, VS Code, Secure code review, Entity Framworks, RE
 I am open to contribute to open source projects, with some guidence. I am looking for a career change, and i am hoping to secure a job in cyber security or software engineering, and willing to start at the very bottom.
 
 Some people may not think that this is fun at all, but i really enjoyed it.  I built a wind tunnel, and designed my own experiment which could be used on the wind tunnel to collect data. I also Hacked the game cyber Kings, which was designed by BAE systems. 
-
+💻 😏 ☀️ 🔰
 <!--
-**BrianJohnson-eng/BrianJohnson-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 💻 😏 ☀️ 🔰
 
